@@ -9,7 +9,7 @@ In this coding assignment, you are asked to create a little program for a basic 
   - Below 20C and above 10C the assistant should recommend a "Ligth jacket"
   - Below 10C the assistant should recommend a "Heavy Jacket"
   
-Make sure you code your assignment in the file "CODE1.py"
+Make sure you code your assignment in the file "code_1.py"
   
   
   
