@@ -1,6 +1,6 @@
 ## CIS 3330 - CODE 1 - Variables, statements, operators, and expressions
 
-In this coding assignment, you are asked to create a little program for a basic weather assistant. The coding assistant must include following features:
+In this coding assignment, you are asked to create a little program for a basic weather assistant. The weather assistant must include following features:
 
 - Request the user the outside temperature in Farenheit
 - Convert the temperature to Celcius degrees
