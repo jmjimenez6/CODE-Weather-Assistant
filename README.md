@@ -3,6 +3,7 @@
 In this coding assignment, you are asked to create a little program for a basic weather assistant. The weather assistant must include following features:
 
 - Request the user the outside temperature in Farenheit
+  - Use the following prompt to receive credit: "What is the temperature outside:"
 - Convert the temperature to Celcius degrees
 - Recommend a piece of clothing depending on the temperature in Celcius
   - Above 20C the assistant should be recommended a "Hat"
