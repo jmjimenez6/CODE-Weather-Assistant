@@ -15,15 +15,21 @@ Make sure you code your assignment in the file "code_1.py"
 ### Example of desired output
 
 For temperature 100F
+
 `What is the temperature outside:100`
+
 `Wear a hat`
 
 For temperature 65F
+
 `What is the temperature outside:65`
+
 `Wear a light jacket`
 
 For temperature 45F
+
 `What is the temperature outside:65`
+
 `Wear a heavy jacket`
 
 
