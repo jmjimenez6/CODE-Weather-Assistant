@@ -2,7 +2,7 @@ import sys
 import os.path
 import pytest
 import random
-from code_1 import main
+from assignment import main
 from mock_input_tests import *
 
 def check_if_file_exists():
