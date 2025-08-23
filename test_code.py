@@ -7,7 +7,7 @@ from mock_input_tests import *
 
 def check_if_file_exists():
     try:
-        exists = os.path.exists("code_1.py")
+        exists = os.path.exists("assignment.py")
         assert exists == True
     except:
         sys.exit()
