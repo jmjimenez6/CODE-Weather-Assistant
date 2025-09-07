@@ -7,9 +7,9 @@ In this coding assignment, you are asked to create a little program for a basic 
 - Convert the temperature from Fahrenheit to Celsius.
   - Conversion formula: (Temperature in °F - 32) * .5556
 - Recommend a piece of clothing depending on the temperature in Celsius
-  - Above 20C, the assistant should be recommended a "\nWear a hat"
-  - Below 20C and above 10C, the assistant should recommend a "\nWear a light jacket"
-  - Below 10C, the assistant should recommend a "\nWear a heavy jacket"
+  - Above 20C, the assistant should be recommended "\nWear a hat"
+  - Below 20C and above 10C, the assistant should recommend "\nWear a light jacket"
+  - Below 10C, the assistant should recommend "\nWear a heavy jacket"
   
 Make sure you code your assignment in the file "assignment.py"
 
