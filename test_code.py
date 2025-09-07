@@ -21,7 +21,7 @@ def test_hat():
     output = get_display_output()
 
     assert output == [
-        "What is the temperature outside:",
+        "What is the temperature outside: ",
         "\nWear a hat",
         ]
 
@@ -34,7 +34,7 @@ def test_light_jacket():
     output = get_display_output()
 
     assert output == [
-        "What is the temperature outside:",
+        "What is the temperature outside: ",
         "\nWear a light jacket",
         ]
 
@@ -48,7 +48,7 @@ def test_heavy_jacket():
     output = get_display_output()
 
     assert output == [
-        "What is the temperature outside:",
+        "What is the temperature outside: ",
         "\nWear a heavy jacket",
         ]
     
