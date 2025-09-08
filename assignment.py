@@ -1,4 +1,4 @@
-# Name
+# Name Justin Jimenez
 # CIS 3330
 # CODE 1 - Weather Assistant
 # Conversion formula: (Temperature in °F - 32) * .5556
