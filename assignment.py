@@ -6,7 +6,7 @@
 # "What is the temperature outside: "
 
 def main():
-    pass  # replace this line with your code
+    pass
 temp_F = input("What is the temperature outside:")
 temp_C = (int(temp_F)-32)*.5556
 
